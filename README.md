@@ -7,3 +7,6 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky for learning pu
 
 # Activity 2
 ![Screenshot](Screenshots/Lab1Activity2.png)
+
+# Activity 3
+![Screenshot](Screenshots/Lab1Activity3.png)
